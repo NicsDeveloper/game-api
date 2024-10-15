@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y6jDcQ1iGlU=",
+  "dgSpecHash": "qOZ7mmTYkdo=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\GameApi\\GameApi.Application\\GameApi.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

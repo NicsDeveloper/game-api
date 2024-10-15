@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "smyd4eMzHC4=",
+  "dgSpecHash": "9zwSt+tTsOM=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\GameApi\\GameApi.Infrastructure\\GameApi.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

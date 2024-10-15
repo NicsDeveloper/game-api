@@ -1,6 +1,10 @@
-﻿namespace GameApi.Application.Protocols.Db.Game;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 
-public interface IGameRepository
-{ 
-    Task<List<Domain.Models.Game>> Get();
+namespace GameApi.Application.Protocols.Db.Game
+{
+    public interface IGameRepository
+    {
+        Task<List<Domain.Models.Game>> Get();
+    }
 }

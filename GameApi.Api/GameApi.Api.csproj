@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -22,10 +23,23 @@
 
   <ItemGroup>
     <None Remove="GameApi.Api.http" />
+    <None Remove="Migrations\**" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\GameApi.Infrastructure\GameApi.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Migrations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Migrations\**" />
   </ItemGroup>
 
 </Project>

@@ -14,10 +14,19 @@
 
   <ItemGroup>
     <Compile Remove="Class1.cs" />
+    <Compile Remove="Migrations\**" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\GameApi.Application\GameApi.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Migrations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Migrations\**" />
   </ItemGroup>
 
 </Project>

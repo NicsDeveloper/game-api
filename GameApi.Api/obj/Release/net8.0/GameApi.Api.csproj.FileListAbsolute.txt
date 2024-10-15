@@ -138,3 +138,9 @@ C:\Projetos\GameApi\GameApi.Api\obj\Release\net8.0\refint\GameApi.Api.dll
 C:\Projetos\GameApi\GameApi.Api\obj\Release\net8.0\GameApi.Api.pdb
 C:\Projetos\GameApi\GameApi.Api\obj\Release\net8.0\GameApi.Api.genruntimeconfig.cache
 C:\Projetos\GameApi\GameApi.Api\obj\Release\net8.0\ref\GameApi.Api.dll
+C:\Projetos\GameApi\GameApi.Api\bin\Release\net8.0\publish\web.config
+C:\Projetos\GameApi\GameApi.Api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Projetos\GameApi\GameApi.Api\bin\Release\net8.0\publish\appsettings.json
+C:\Projetos\GameApi\GameApi.Api\bin\Release\net8.0\publish\GameApi.Api.deps.json
+C:\Projetos\GameApi\GameApi.Api\bin\Release\net8.0\publish\GameApi.Api.runtimeconfig.json
+C:\Projetos\GameApi\GameApi.Api\bin\Release\net8.0\CsvHelper.dll

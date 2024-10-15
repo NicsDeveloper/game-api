@@ -1,9 +1,15 @@
 C:\Projetos\GameApi\GameApi.Api\publish\GameApi.Api.exe
+C:\Projetos\GameApi\GameApi.Api\publish\publish\web.config
 C:\Projetos\GameApi\GameApi.Api\publish\appsettings.Development.json
 C:\Projetos\GameApi\GameApi.Api\publish\appsettings.json
+C:\Projetos\GameApi\GameApi.Api\publish\publish\appsettings.Development.json
+C:\Projetos\GameApi\GameApi.Api\publish\publish\appsettings.json
+C:\Projetos\GameApi\GameApi.Api\publish\publish\GameApi.Api.deps.json
+C:\Projetos\GameApi\GameApi.Api\publish\publish\GameApi.Api.runtimeconfig.json
 C:\Projetos\GameApi\GameApi.Api\publish\GameApi.Api.dll
 C:\Projetos\GameApi\GameApi.Api\publish\GameApi.Api.runtimeconfig.json
 C:\Projetos\GameApi\GameApi.Api\publish\GameApi.Api.pdb
+C:\Projetos\GameApi\GameApi.Api\publish\CsvHelper.dll
 C:\Projetos\GameApi\GameApi.Api\publish\Humanizer.dll
 C:\Projetos\GameApi\GameApi.Api\publish\Microsoft.AspNetCore.OpenApi.dll
 C:\Projetos\GameApi\GameApi.Api\publish\Microsoft.Bcl.AsyncInterfaces.dll
