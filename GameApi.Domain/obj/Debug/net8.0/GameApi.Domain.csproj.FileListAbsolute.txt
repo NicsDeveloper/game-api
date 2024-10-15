@@ -1,0 +1,11 @@
+C:\Projetos\GameApi\GameApi.Domain\bin\Debug\net8.0\GameApi.Domain.deps.json
+C:\Projetos\GameApi\GameApi.Domain\bin\Debug\net8.0\GameApi.Domain.dll
+C:\Projetos\GameApi\GameApi.Domain\bin\Debug\net8.0\GameApi.Domain.pdb
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.AssemblyInfoInputs.cache
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.AssemblyInfo.cs
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.dll
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\refint\GameApi.Domain.dll
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.pdb
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\ref\GameApi.Domain.dll
