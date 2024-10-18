@@ -9,3 +9,4 @@ C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.dll
 C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\refint\GameApi.Domain.dll
 C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.pdb
 C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\ref\GameApi.Domain.dll
+C:\Projetos\GameApi\GameApi.Domain\obj\Debug\net8.0\GameApi.Domain.sourcelink.json

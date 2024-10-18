@@ -17,3 +17,4 @@ C:\Projetos\GameApi\GameApi.Infrastructure\obj\Debug\net8.0\refint\GameApi.Infra
 C:\Projetos\GameApi\GameApi.Infrastructure\obj\Debug\net8.0\GameApi.Infrastructure.pdb
 C:\Projetos\GameApi\GameApi.Infrastructure\obj\Debug\net8.0\GameApi.Infrastructure.genruntimeconfig.cache
 C:\Projetos\GameApi\GameApi.Infrastructure\obj\Debug\net8.0\ref\GameApi.Infrastructure.dll
+C:\Projetos\GameApi\GameApi.Infrastructure\obj\Debug\net8.0\GameApi.Infrastructure.sourcelink.json

@@ -13,3 +13,4 @@ C:\Projetos\GameApi\GameApi.Application\obj\Debug\net8.0\GameApi.Application.dll
 C:\Projetos\GameApi\GameApi.Application\obj\Debug\net8.0\refint\GameApi.Application.dll
 C:\Projetos\GameApi\GameApi.Application\obj\Debug\net8.0\GameApi.Application.pdb
 C:\Projetos\GameApi\GameApi.Application\obj\Debug\net8.0\ref\GameApi.Application.dll
+C:\Projetos\GameApi\GameApi.Application\obj\Debug\net8.0\GameApi.Application.sourcelink.json
