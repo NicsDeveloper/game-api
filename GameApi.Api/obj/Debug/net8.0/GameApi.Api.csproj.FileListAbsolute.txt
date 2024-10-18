@@ -144,3 +144,9 @@ C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\appsettings.json
 C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\GameApi.Api.deps.json
 C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\GameApi.Api.runtimeconfig.json
 C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\CsvHelper.dll
+C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\publish\web.config
+C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\publish\appsettings.Development.json
+C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\publish\appsettings.json
+C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\publish\GameApi.Api.deps.json
+C:\Projetos\GameApi\GameApi.Api\bin\Debug\net8.0\publish\publish\GameApi.Api.runtimeconfig.json
+C:\Projetos\GameApi\GameApi.Api\obj\Debug\net8.0\GameApi.Api.sourcelink.json
